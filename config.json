@@ -1,0 +1,9 @@
+{
+	"ip":"niabxsmp.aternos.me",
+	"port": 25710,
+	"name": "RAOUMAR(BOT)",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Temp1234",
+	"login-cmd":"/login Temp1234"
+}
